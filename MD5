@@ -1,5 +1,5 @@
-24b6d95a30a8f716350db5d8bfe67e46 *DESCRIPTION
-7ccd069ebbb5bd29c4d4ffd839784c34 *NAMESPACE
+6b02fbd6f720e7e84d3aa1b7e437ef83 *DESCRIPTION
+40748d03e6f30f480488e6933bcdf940 *NAMESPACE
 981385ac55dde8b29fb75eac49dd9984 *R/getAlbum.R
 9d2feaa7e71d853d7ee45c78ae250468 *R/getAlbumInfo.R
 0e670e096cb4613f39596eefa87d5dbd *R/getAlbums.R
@@ -8,6 +8,8 @@ e12470588ab7503f402e0404d53dacbc *R/getArtist.R
 d2dbadd07cfd1b59a7bf2d062b4e2269 *R/getPlaylistSongs.R
 3e2b4cdaddc3f8ca32796d759ac65b91 *R/getPlaylists.R
 b7609e581f6f89bf6516620d8ce93627 *R/getRelated.R
+fc698ab4c0fbc78e7513108df1250f44 *R/getTopTracks.R
+1d608a227187afaeff0917ee7b992876 *R/getTrack.R
 e64e69886151e74f1dfb5a89afc5fabd *R/getUser.R
 f337dd893d024e86e29f264d19806cc7 *R/searchArtist.R
 0452e17bb71a1a428f93b9ce47173ea2 *R/searchPlaylist.R
@@ -21,6 +23,8 @@ e8bad741f8c57b0cb3a4ee1998c7674a *man/getFeatures.Rd
 8d2a1b103ab963345c1370f143576e5a *man/getPlaylistSongs.Rd
 a13674a3e1a31948d4b513b5f12bd891 *man/getPlaylists.Rd
 3bb0b3b5233cc61b46dec7d845513219 *man/getRelated.Rd
+8fa833ea44c0c745035d3fab84f277dc *man/getTopTracks.Rd
+0784e88bd34228f4c90428fd908f6521 *man/getTrack.Rd
 5048fb990490480ee3dc6ad74e92d64c *man/getUser.Rd
 f4bcac8c05519559e4fa53773e36f302 *man/searchArtist.Rd
 2326a07d2e8464cc4de0858e4d9df6e4 *man/searchPlaylist.Rd

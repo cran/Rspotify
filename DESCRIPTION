@@ -1,7 +1,7 @@
 Package: Rspotify
 Type: Package
 Title: Access to Spotify API
-Version: 0.1.0
+Version: 0.1.2
 Author: Tiago Mendes Dantas
 Maintainer: Tiago Mendes Dantas <t.mendesdantas@gmail.com>
 Description: Provides an interface to the Spotify API <https://developer.spotify.com/documentation/web-api/>.
@@ -11,6 +11,6 @@ LazyData: true
 RoxygenNote: 6.1.0
 Imports: dplyr, plyr, httr, jsonlite, magrittr
 NeedsCompilation: no
-Packaged: 2018-08-06 20:50:11 UTC; tiagomendedantas
+Packaged: 2018-08-13 13:16:13 UTC; tiagomendedantas
 Repository: CRAN
-Date/Publication: 2018-08-07 18:50:06 UTC
+Date/Publication: 2018-08-13 14:10:12 UTC
